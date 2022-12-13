@@ -20,7 +20,6 @@ chandler jill {'weight': 9}
 chandler shelley {'weight': 2}
 chandler andrea {'weight': 1}
 chandler lowell {'weight': 1}
-chandler guy {'weight': 5}
 chandler david {'weight': 8}
 chandler max {'weight': 3}
 chandler sandy {'weight': 1}
@@ -48,7 +47,6 @@ chandler melanie {'weight': 1}
 chandler julie {'weight': 11}
 chandler paulo {'weight': 2}
 chandler frankie {'weight': 1}
-chandler rahcel {'weight': 1}
 chandler jade {'weight': 1}
 chandler machine {'weight': 3}
 chandler steve {'weight': 3}
@@ -106,7 +104,6 @@ chandler robin {'weight': 1}
 chandler doug {'weight': 10}
 chandler phil {'weight': 1}
 chandler stevens {'weight': 2}
-chandler bonnie {'weight': 6}
 chandler peter {'weight': 1}
 chandler tony {'weight': 1}
 chandler kathy {'weight': 15}
@@ -206,6 +203,7 @@ chandler laura {'weight': 3}
 chandler missy {'weight': 1}
 chandler adrienne {'weight': 1}
 chandler realtor {'weight': 2}
+chandler bonnie {'weight': 6}
 joey monica {'weight': 708}
 joey phoebe {'weight': 694}
 joey rachel {'weight': 711}
@@ -223,9 +221,7 @@ joey kid {'weight': 4}
 joey angela {'weight': 3}
 joey bob {'weight': 2}
 joey aurora {'weight': 2}
-joey director {'weight': 16}
 joey andrea {'weight': 1}
-joey guy {'weight': 8}
 joey david {'weight': 5}
 joey max {'weight': 3}
 joey janice {'weight': 18}
@@ -250,7 +246,6 @@ joey melanie {'weight': 2}
 joey julie {'weight': 8}
 joey paulo {'weight': 2}
 joey annabelle {'weight': 3}
-joey rahcel {'weight': 1}
 joey jade {'weight': 1}
 joey machine {'weight': 3}
 joey steve {'weight': 5}
@@ -303,7 +298,6 @@ joey cailin {'weight': 1}
 joey vince {'weight': 1}
 joey billy {'weight': 1}
 joey robin {'weight': 1}
-joey bonnie {'weight': 5}
 joey peter {'weight': 1}
 joey tony {'weight': 1}
 joey joanna {'weight': 1}
@@ -403,6 +397,7 @@ joey henrietta {'weight': 1}
 joey tape {'weight': 1}
 joey realtor {'weight': 1}
 joey mackenzie {'weight': 2}
+joey bonnie {'weight': 5}
 monica phoebe {'weight': 802}
 monica rachel {'weight': 776}
 monica ross {'weight': 653}
@@ -421,7 +416,6 @@ monica aurora {'weight': 2}
 monica paolo {'weight': 6}
 monica nurse {'weight': 11}
 monica andrea {'weight': 1}
-monica guy {'weight': 10}
 monica david {'weight': 8}
 monica max {'weight': 3}
 monica janice {'weight': 15}
@@ -451,7 +445,6 @@ monica kid {'weight': 2}
 monica stephanie {'weight': 1}
 monica terry {'weight': 1}
 monica together {'weight': 1}
-monica rtst {'weight': 3}
 monica gang {'weight': 2}
 monica gunther {'weight': 28}
 monica fbob {'weight': 5}
@@ -478,7 +471,7 @@ monica jester {'weight': 1}
 monica ben {'weight': 7}
 monica margha {'weight': 2}
 monica cookie {'weight': 1}
-monica jeannine {'weight': 1}
+monica janine {'weight': 9}
 monica julio {'weight': 2}
 monica clerk {'weight': 1}
 monica singer {'weight': 2}
@@ -499,9 +492,7 @@ monica robin {'weight': 1}
 monica hoshi {'weight': 1}
 monica announcer {'weight': 2}
 monica referee {'weight': 1}
-monica bonnie {'weight': 3}
 monica chip {'weight': 4}
-monica oven {'weight': 1}
 monica kathy {'weight': 5}
 monica josh {'weight': 2}
 monica cheryl {'weight': 2}
@@ -528,9 +519,7 @@ monica voice {'weight': 1}
 monica caitlin {'weight': 2}
 monica attendant {'weight': 1}
 monica croupler {'weight': 1}
-monica janine {'weight': 8}
 monica kim {'weight': 1}
-monica director {'weight': 3}
 monica jill {'weight': 3}
 monica carl {'weight': 1}
 monica elizabeth {'weight': 2}
@@ -581,7 +570,6 @@ monica racel {'weight': 1}
 monica everybody {'weight': 3}
 monica message {'weight': 1}
 monica charlie {'weight': 8}
-monica rachele {'weight': 1}
 monica dirk {'weight': 1}
 monica zack {'weight': 3}
 monica bill {'weight': 2}
@@ -594,6 +582,7 @@ monica emma {'weight': 1}
 monica laura {'weight': 3}
 monica adrienne {'weight': 1}
 monica realtor {'weight': 2}
+monica bonnie {'weight': 3}
 phoebe rachel {'weight': 766}
 phoebe ross {'weight': 651}
 phoebe paul {'weight': 4}
@@ -609,7 +598,6 @@ phoebe janice {'weight': 14}
 phoebe aurora {'weight': 2}
 phoebe paolo {'weight': 6}
 phoebe andrea {'weight': 1}
-phoebe guy {'weight': 16}
 phoebe david {'weight': 16}
 phoebe max {'weight': 4}
 phoebe sandy {'weight': 1}
@@ -657,7 +645,6 @@ phoebe trainer {'weight': 1}
 phoebe gail {'weight': 1}
 phoebe roy {'weight': 3}
 phoebe richard {'weight': 9}
-phoebe producer {'weight': 1}
 phoebe eddie {'weight': 2}
 phoebe amber {'weight': 1}
 phoebe amger {'weight': 1}
@@ -690,7 +677,6 @@ phoebe fireman {'weight': 1}
 phoebe billy {'weight': 1}
 phoebe robin {'weight': 1}
 phoebe bonnie {'weight': 5}
-phoebe oven {'weight': 1}
 phoebe rick {'weight': 2}
 phoebe interviewer {'weight': 1}
 phoebe kathy {'weight': 6}
@@ -769,7 +755,6 @@ phoebe bill {'weight': 1}
 phoebe kevin {'weight': 1}
 phoebe others {'weight': 1}
 phoebe wendy {'weight': 1}
-phoebe director {'weight': 5}
 phoebe extra {'weight': 1}
 phoebe molly {'weight': 1}
 phoebe gavin {'weight': 1}
@@ -780,7 +765,6 @@ phoebe racel {'weight': 1}
 phoebe everybody {'weight': 3}
 phoebe message {'weight': 1}
 phoebe charlie {'weight': 10}
-phoebe rachele {'weight': 1}
 phoebe receptionist {'weight': 2}
 phoebe stranger {'weight': 1}
 phoebe zack {'weight': 1}
@@ -811,7 +795,6 @@ rachel aurora {'weight': 1}
 rachel paolo {'weight': 7}
 rachel andrea {'weight': 1}
 rachel terry {'weight': 2}
-rachel guy {'weight': 10}
 rachel david {'weight': 5}
 rachel max {'weight': 3}
 rachel janice {'weight': 12}
@@ -837,7 +820,6 @@ rachel carl {'weight': 1}
 rachel julie {'weight': 18}
 rachel paulo {'weight': 2}
 rachel stranger {'weight': 2}
-rachel rahcel {'weight': 1}
 rachel jade {'weight': 1}
 rachel machine {'weight': 3}
 rachel boys {'weight': 1}
@@ -921,7 +903,6 @@ rachel elizabeth {'weight': 8}
 rachel sebastian {'weight': 1}
 rachel eldad {'weight': 1}
 rachel patrick {'weight': 1}
-rachel narrator {'weight': 1}
 rachel mac {'weight': 1}
 rachel hilda {'weight': 1}
 rachel tag {'weight': 25}
@@ -942,7 +923,6 @@ rachel bandleader {'weight': 2}
 rachel mona {'weight': 6}
 rachel ashley {'weight': 1}
 rachel gert {'weight': 1}
-rachel director {'weight': 2}
 rachel kash {'weight': 2}
 rachel ballerina {'weight': 1}
 rachel clown {'weight': 1}
@@ -970,7 +950,6 @@ rachel everybody {'weight': 3}
 rachel message {'weight': 2}
 rachel jane {'weight': 1}
 rachel charlie {'weight': 18}
-rachel rachele {'weight': 1}
 rachel dirk {'weight': 1}
 rachel zack {'weight': 1}
 rachel amanda {'weight': 2}
@@ -999,7 +978,6 @@ ross aurora {'weight': 2}
 ross paolo {'weight': 6}
 ross nurse {'weight': 10}
 ross andrea {'weight': 1}
-ross guy {'weight': 10}
 ross david {'weight': 3}
 ross max {'weight': 3}
 ross janice {'weight': 12}
@@ -1021,7 +999,6 @@ ross melanie {'weight': 1}
 ross carl {'weight': 1}
 ross julie {'weight': 15}
 ross paulo {'weight': 1}
-ross rahcel {'weight': 1}
 ross jade {'weight': 1}
 ross machine {'weight': 3}
 ross steve {'weight': 7}
@@ -1115,7 +1092,6 @@ ross judge {'weight': 1}
 ross janine {'weight': 7}
 ross kim {'weight': 1}
 ross hillary {'weight': 2}
-ross director {'weight': 4}
 ross jill {'weight': 7}
 ross burt {'weight': 3}
 ross lydia {'weight': 1}
@@ -1123,7 +1099,6 @@ ross mel {'weight': 1}
 ross sebastian {'weight': 1}
 ross lorraine {'weight': 1}
 ross zoe {'weight': 1}
-ross narrator {'weight': 1}
 ross mac {'weight': 1}
 ross whitney {'weight': 2}
 ross erin {'weight': 1}
@@ -1173,7 +1148,6 @@ ross everybody {'weight': 3}
 ross message {'weight': 1}
 ross chandlers {'weight': 1}
 ross charlie {'weight': 27}
-ross rachele {'weight': 1}
 ross dirk {'weight': 1}
 ross paleontologist {'weight': 1}
 ross glenda {'weight': 1}
@@ -1263,9 +1237,6 @@ janice gunther {'weight': 2}
 janice sid {'weight': 1}
 janice nurse {'weight': 1}
 janice realtor {'weight': 1}
-director janine {'weight': 1}
-director kash {'weight': 1}
-director extra {'weight': 1}
 jill gunther {'weight': 1}
 jill janine {'weight': 1}
 paolo girls {'weight': 1}
@@ -1280,21 +1251,6 @@ terry caroline {'weight': 1}
 terry doctor {'weight': 1}
 terry stephanie {'weight': 1}
 terry together {'weight': 1}
-guy lydia {'weight': 1}
-guy annabelle {'weight': 1}
-guy mich {'weight': 1}
-guy gunter {'weight': 1}
-guy gunther {'weight': 1}
-guy steve {'weight': 1}
-guy cop {'weight': 1}
-guy elizabeth {'weight': 1}
-guy earl {'weight': 1}
-guy supervisor {'weight': 1}
-guy tom {'weight': 1}
-guy helena {'weight': 1}
-guy tim {'weight': 1}
-guy jim {'weight': 1}
-guy gavin {'weight': 1}
 david max {'weight': 3}
 david sandy {'weight': 1}
 david ben {'weight': 1}
@@ -1334,7 +1290,6 @@ petrie santos {'weight': 1}
 lydia burt {'weight': 1}
 lydia elizabeth {'weight': 1}
 lydia mel {'weight': 1}
-julie rahcel {'weight': 1}
 julie russ {'weight': 1}
 julie marc {'weight': 2}
 jade machine {'weight': 1}
@@ -1435,7 +1390,7 @@ sarah zoe {'weight': 1}
 sarah charlie {'weight': 1}
 mark quartet {'weight': 1}
 mark chloe {'weight': 1}
-jeannine julio {'weight': 1}
+janine julio {'weight': 1}
 julio quartet {'weight': 1}
 chloe issac {'weight': 3}
 mischa sergei {'weight': 2}
@@ -1549,7 +1504,6 @@ gavin molly {'weight': 1}
 everybody message {'weight': 1}
 everybody judy {'weight': 1}
 message jane {'weight': 1}
-charlie rachele {'weight': 1}
 charlie zack {'weight': 1}
 charlie paleontologist {'weight': 1}
 charlie benjamin {'weight': 2}
